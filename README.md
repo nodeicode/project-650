@@ -14,6 +14,9 @@ Open the folder in VS Code (I use VS Code) and run `npm install`. Then run `npm 
 
 The information below is because I create the React app directly from `npx create-react-app project-650`. I deleted some original files, so some commands below may not work.
 
+## For Deploying...
+
+I am planning to use [AWS Amplify](https://docs.amplify.aws/react/how-amplify-works/concepts/), which works with React and other AWS features. And it is easy to use for deploying the application.
 
 ## Available Scripts
 
