@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before starting...
+
+I downloaded `node.js` using `brew`
+
+```
+brew install node
+```
+
+Open the folder in VS Code (I use VS Code) and run `npm install`. Then run `npm start` to see the UI.
+
+The information below is because I create the React app directly from `npx create-react-app project-650`. I deleted some original files, so some commands below may not work.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
