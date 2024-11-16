@@ -18,6 +18,11 @@ The information below is because I create the React app directly from `npx creat
 
 I am planning to use [AWS Amplify](https://docs.amplify.aws/react/how-amplify-works/concepts/), which works with React and other AWS features. And it is easy to use for deploying the application.
 
+```
+npm run build
+```
+It will give you a `build` folder. Open this folder, select all components and compress then upload the zip file to AWS Amplify.
+
 ## Available Scripts
 
 In the project directory, you can run:
