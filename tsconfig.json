@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"allowJs": true, // Allows JavaScript files to be compiled
+		"checkJs": true, // Enables type checking in JavaScript files (optional)
+		"outDir": "./dist" // Specifies output directory for compiled files (optional)
+	}
+}
